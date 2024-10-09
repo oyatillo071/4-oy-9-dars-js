@@ -9,7 +9,7 @@
     margin: 100px auto;
 }
 h5{
-    font-size: 16px;
+    font-size: 22px;
     color: rgb(9, 200, 200);
     margin-block: 40px;
 
@@ -43,7 +43,7 @@ input{
 .answer--wrapper{
     border: 1px solid gray;
     background-color: transparent;
-    padding: 10px 80px 40px;
+    padding: 5px 90px 40px;
     border-radius: 10px;
     margin-block: 10px;
     position: relative;
@@ -57,6 +57,8 @@ label{
 p{
     color: rgb(18, 196, 101);
     font-size: 18px;
+    white-space: wrap;
+    max-width: 80%;
 }
 span{
     position: absolute;
